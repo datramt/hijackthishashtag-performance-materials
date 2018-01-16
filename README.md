@@ -6,4 +6,4 @@ The media that is to be scrubbed scrubbed is a large video file—too large to u
 [video](https://www.dropbox.com/s/e38ebvsukow6em7/DraftE.mov?dl=0)
 
 
-[(https://raw.githubusercontent.com/datramt/hijackthishashtag-performance-materials/master/screenshot.png)](https://youtu.be/F0ZlDVVzDxw)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/datramt/hijackthishashtag-performance-materials/master/screenshot.png)](https://youtu.be/F0ZlDVVzDxw)
